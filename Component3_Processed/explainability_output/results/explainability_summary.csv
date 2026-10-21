@@ -1,0 +1,2 @@
+Model,Test_Records,Raw_Feature_Count,Transformed_Feature_Count,SHAP_Sample_Size,Top_Aggregated_Feature,Top_Aggregated_Importance,Top_SHAP_Feature,Top_SHAP_Importance
+XGBoost_Personalized_Scheduler,44837,41,56,3000,priority_level,0.2734643220901489,appliance_category_Refrigeration,1.0979725

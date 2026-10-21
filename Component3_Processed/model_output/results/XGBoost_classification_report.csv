@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+DELAY,1.0,1.0,1.0,730.0
+ECO_MODE,1.0,1.0,1.0,5616.0
+LOAD_BALANCE,1.0,1.0,1.0,4021.0
+PRIORITY,1.0,1.0,1.0,5238.0
+TURN_OFF,1.0,1.0,1.0,18178.0
+TURN_ON,1.0,1.0,1.0,1928.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,35711.0
+weighted avg,1.0,1.0,1.0,35711.0

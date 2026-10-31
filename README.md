@@ -3,6 +3,7 @@
 # AI-Based Smart Energy Management System using IoT, Edge Computing and Machine Learning
 
 **Research Project ID:** J26-IT-389
+|
 **Module:** IT4010 – Research Project
 ---
 
